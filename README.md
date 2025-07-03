@@ -2,7 +2,7 @@
 
 ![Banner de bienvenida con animación de código](https://raw.githubusercontent.com/nosungam/nosungam/main/assets/banner-moderno.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Hola,+soy+Gaston+Magni+%F0%9F%91%8B;Desarrollador+Full+Stack;Amante+del+Backend+y+Data+Science;Siempre+aprendiendo+y+creciendo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Hola,+soy+Gaston+Magni+%F0%9F%91%8B;Desarrollador+Full+Stack;Apacionado+por+el+Backend+y+Data+Science;Siempre+aprendiendo+y+creciendo)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gast%C3%B3n-magni-9397b4269/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastonmagni@hotmail.com)
